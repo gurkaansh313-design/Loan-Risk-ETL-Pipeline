@@ -1,0 +1,26 @@
+#1 Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+#2 Virtual environments
+.venv/
+venv/
+env/
+
+#3  Environment
+.env
+
+#4 Google Cloud credentials
+*.json
+
+#5 Airflow generated files
+logs/
+airflow-webserver.pid
+
+#6 macOS
+.DS_Store
+
+#7 IDE
+.vscode/
+.idea/
