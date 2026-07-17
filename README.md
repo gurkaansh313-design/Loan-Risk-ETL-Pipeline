@@ -24,7 +24,7 @@ The pipeline:
 
 ##  Architecture
 
-> *(Architecture diagram will be added here in the next step.)*
+
 
 ```
              Raw Loan Dataset (CSV)
