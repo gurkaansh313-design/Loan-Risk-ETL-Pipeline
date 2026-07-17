@@ -1,4 +1,4 @@
-#  Loan Risk ETL Pipeline
+# ETL Pipeline
 
 An end-to-end ETL (Extract, Transform, Load) pipeline built using Python,Apache Airflow,Docker,Google BigQuery and SQL.
 The project automates data ingestion, cleaning, validation, transformation, and loading into BigQuery for analytics.
