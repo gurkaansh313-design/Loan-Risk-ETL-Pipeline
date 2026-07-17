@@ -207,12 +207,9 @@ http://localhost:8080
 
 ##  Future Improvements
 
-1 CI/CD using GitHub Actions.
-2 Incremental ETL processing.
-3 Cloud deployment.
-4 Data quality monitoring.
-5 Interactive Power BI/Tableau dashboard.
-6 Unit test coverage expansion.
+
+Interactive Power BI/Tableau dashboard for advanced live analysis where continuously data is loaded and updated in the dashboard.
+This would allow to capture the leverage points which could bring out unprecedented growth and roll down new opportunities.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------
